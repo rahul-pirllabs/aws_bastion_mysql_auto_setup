@@ -1,0 +1,1 @@
+# aws_bastion_mysql_auto_setup
